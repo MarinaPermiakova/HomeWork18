@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HomeWork18</string>
+    <string name="phrase">To be, or not to be.</string>
+    <string name="ok">OK</string>
+    <string name="choose_language">Выберите язык</string>
+    <string name="choose_margins">Выберите отступы</string>
+
+    <string-array name="language">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="margins">
+        <item>Большие отступы</item>
+        <item>Средние отступы</item>
+        <item>Маленькие отступы</item>
+    </string-array>
+</resources>

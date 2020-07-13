@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HomeWork</string>
+    <string name="ok">OK</string>
+    <string name="choose_language">Choose language</string>
+    <string name="choose_margins">Choose margins</string>
+</resources>

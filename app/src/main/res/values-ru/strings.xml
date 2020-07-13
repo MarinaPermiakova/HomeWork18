@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Домашняя работа</string>
+    <string name="ok">OK</string>
+    <string name="choose_language">Выберите язык</string>
+    <string name="choose_margins">Выберите отступы</string>
+</resources>
